@@ -13,14 +13,6 @@ TaskBuddy is a task management app built with React. It allows users to add, upd
 - **Clear All Tasks**: Users can clear all tasks with a single click.
 - **Progress Tracker**: Visual representation of the task completion status.
 
-## Installation
-
-Follow these steps to get your development environment set up:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/TaskBuddy.git
-
 
 Usage
 Adding Tasks: Enter task details and click "Add Task" to add a new task.
