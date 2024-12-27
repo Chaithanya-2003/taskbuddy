@@ -20,17 +20,12 @@ Updating Tasks: Click on a task to edit its details.
 Deleting Tasks: Click the trash icon next to a task to delete it.
 Clearing All Tasks: Click the "Clear All Tasks" button to remove all tasks.
 Progress Tracker: View the progress of your tasks in the progress tracker.
-Technologies Used
+
+<br></br>
+Technologies Used <br></br>
 React
 CSS
 Local Storage (for saving tasks)
-
-Contributing
-Fork the repository.
-Create a new branch (git checkout -b feature-name).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature-name).
-Create a new Pull Request.
 
 
 
